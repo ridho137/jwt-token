@@ -1,0 +1,107 @@
+{
+    "outData": [
+        {
+            "notificationId": 391,
+            "title": "test push by token ridho",
+            "content": "Ridho Test malem ini gaes, maaf mengganggu",
+            "contentDescription": "Ridho Test malem ini gaes, maaf mengganggu",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "14-12-2022 01:04:30"
+        },
+        {
+            "notificationId": 390,
+            "title": "test push by token ridho",
+            "content": "Ridho Test malem ini gaes, maaf mengganggu",
+            "contentDescription": "Ridho Test malem ini gaes, maaf mengganggu",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "14-12-2022 01:04:24"
+        },
+        {
+            "notificationId": 388,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221200000378",
+            "contentDescription": "Successfully paid invoice number SLS221200000378",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "05-12-2022 03:42:54"
+        },
+        {
+            "notificationId": 387,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221200000371",
+            "contentDescription": "Successfully paid invoice number SLS221200000371",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "02-12-2022 23:01:50"
+        },
+        {
+            "notificationId": 11,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221100000366",
+            "contentDescription": "Successfully paid invoice number SLS221100000366",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": true,
+            "createdDate": "12-11-2022 21:28:05"
+        },
+        {
+            "notificationId": 10,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221100000365",
+            "contentDescription": "Successfully paid invoice number SLS221100000365",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "12-11-2022 21:21:01"
+        },
+        {
+            "notificationId": 9,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221100000364",
+            "contentDescription": "Successfully paid invoice number SLS221100000364",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "12-11-2022 21:15:51"
+        },
+        {
+            "notificationId": 8,
+            "title": "Success Paid",
+            "content": "Successfully paid invoice number SLS221100000360",
+            "contentDescription": "Successfully paid invoice number SLS221100000360",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "12-11-2022 21:00:38"
+        },
+        {
+            "notificationId": 7,
+            "title": "test push by token ridho",
+            "content": "Ridho Test malem ini gaes, maaf mengganggu",
+            "contentDescription": "Ridho Test malem ini gaes, maaf mengganggu",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "12-11-2022 20:21:41"
+        },
+        {
+            "notificationId": 6,
+            "title": "test push by token ridho",
+            "content": "Ridho Test malem ini gaes, maaf mengganggu",
+            "contentDescription": "Ridho Test malem ini gaes, maaf mengganggu",
+            "assetLink": "",
+            "notificationType": "Payment",
+            "notificationRead": false,
+            "createdDate": "12-11-2022 20:19:11"
+        }
+    ],
+    "outError": 0,
+    "outMessage": "success",
+    "TotalPage": 1
+}
